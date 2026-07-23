@@ -1,4 +1,14 @@
-<h2 align="left">Android Dev, Front End Developer, Progressing FullStack Developer, AI Enthusiast, Hardware and Software Enthusiast, Tech Enthusiast</h2>
+<h2 align="left">Name: Muhsil NR</h2>
+<p align="left">
+  <a href="https://www.instagram.com/muhsilnr/?hl=en" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 8px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="3" width="18" height="18" rx="5" ry="5"></rect>
+      <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+      <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
+    </svg>
+    <span>@muhsilnr</span>
+  </a>
+</p>
 
 ###
 ###
@@ -32,19 +42,21 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/muhsilnr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muhsil-nr-028a51301/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/MuhsilNr73297" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:rockriderskerala@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<div align="center">
+
+  <h3><code>mhlohh ~ $ ./contributions.sh</code></h3>
+    <img src="./contrib-heatmap.svg" width="860" />
+
+  <br><br>
+
+  <h3><code>@mhlohh ~ $ whoami</code></h3>
+    <table>
+      <tr>
+        <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+        <td valign="top"><img src="./info-card.svg" width="490" /></td>
+      </tr>
+    </table>
+
 </div>
 
 ###
